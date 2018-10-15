@@ -13,7 +13,8 @@ end
 
 def long_planeteer_calls(long_calls)
   # Your code here
-  long_calls.any? do 
+  long_calls.any? do |lc|
+    
 end
 
 def find_the_cheese# code an argument here
