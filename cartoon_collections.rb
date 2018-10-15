@@ -6,9 +6,9 @@ end
 
 def summon_captain_planet(planeteer_calls)
   # Your code here
-  planeteer_calls.each.map {|z| 
+  planeteer_calls.each.map do|z| 
   z.capitalize + "!"
-  }
+end
 end
 
 def long_planeteer_calls# code an argument here
